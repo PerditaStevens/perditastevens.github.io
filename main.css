@@ -1,0 +1,66 @@
+BODY {
+  font-family: "Franklin Gothic Book", Arial, sans-serif;   
+  margin: 10px 20px
+}
+
+DL {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.v_line {
+  BACKGROUND-COLOR: #64b; 
+}
+
+.name {
+  BACKGROUND-COLOR: #97d; 
+  FONT-WEIGHT: bold;
+  font-style: italic;
+}
+
+.title {
+  BACKGROUND-COLOR: #97d; 
+  font-style: italic;
+}
+
+
+.home {
+  border-top: white 10px solid;
+  padding-left: 10px;
+  font-size: 85%;
+}
+
+.text {
+  border-top: white 10px solid;
+}
+
+.section-name {
+  background-color: #99f;
+  font-weight: bold;
+  font-size: 120%;
+  border-top: white 10px solid;
+  padding-left: 10px;
+}
+
+.section-body {
+  background-color: #99f;
+  border-top: white 10px solid; 
+}
+
+
+A:link {
+	COLOR: #336;
+}
+
+
+A:hover {
+	COLOR: #c30
+}
+
+.booktitle {
+  font-style: italic;
+}
+
+.bookdetails {
+  font-size: 90%;
+}
